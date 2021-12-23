@@ -22,7 +22,6 @@
 /build
 /packages/**/dist
 /dist
-/packages/**/dist
 
 # misc
 .DS_Store
@@ -42,3 +41,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# IDE
+.idea
